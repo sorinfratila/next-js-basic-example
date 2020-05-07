@@ -1,0 +1,19 @@
+{
+  "name": "react-next-app",
+  "version": "1.0.0",
+  "description": "next js tutorial app",
+  "main": "index.js",
+  "dependencies": {
+    "next": "^9.3.6",
+    "react": "^16.13.1",
+    "react-dom": "^16.13.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "dev": "next",
+    "build": "next build",
+    "start": "next start"
+  },
+  "author": "sorin",
+  "license": "ISC"
+}
